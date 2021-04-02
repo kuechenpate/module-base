@@ -1,0 +1,7 @@
+.admin__menu .level-0.item-kuechenpate > a:before {
+    content: url('../images/icon.png');
+    height: 2.2rem;
+}
+li#menu-vendor_extension-menu_id > a > span {
+    display: none;
+}
