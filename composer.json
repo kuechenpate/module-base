@@ -19,7 +19,7 @@
     "repositories": {
         "base": {
             "type": "git",
-            "url": "https://github.com/kuechenpate/Base.git"
+            "url": "https://github.com/kuechenpate/base-extension"
         }
     }
 }

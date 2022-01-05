@@ -1,4 +1,4 @@
-.admin__menu .level-0.item-kuechenpate > a:before {
+#menu-kuechenpate-base > a:before {
     content: url('../images/icon.png');
     height: 2.2rem;
 }
