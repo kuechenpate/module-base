@@ -10,7 +10,7 @@
     "type": "magento2-module",
     "version": "1.0.1",
     "license": "GPL-3.0",
-    "require": {
+    "requires": {
         "php": ">=8.1"
     },
     "minimum-stability": "stable",
